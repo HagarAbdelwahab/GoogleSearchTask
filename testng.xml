@@ -1,0 +1,7 @@
+<suite name="Testing Google Search ">
+    <test name="testngTest">
+        <classes>
+            <class name="TestScenario" />
+        </classes>
+    </test>
+</suite>

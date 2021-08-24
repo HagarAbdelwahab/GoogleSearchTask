@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-24T18:27:24 EET" name="Command line suite" finished-at="2021-08-24T18:28:03 EET" duration-ms="38381">
+    <groups>
+    </groups>
+    <test started-at="2021-08-24T18:27:24 EET" name="Command line test" finished-at="2021-08-24T18:28:03 EET" duration-ms="38381">
+      <class name="TestScenario">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:24 EET" name="setupDriver" finished-at="2021-08-24T18:27:29 EET" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="createAnInstanceOfEachPage()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:29 EET" name="createAnInstanceOfEachPage" finished-at="2021-08-24T18:27:29 EET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnInstanceOfEachPage -->
+        <test-method is-config="true" signature="openHomePageOfGoogle()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:29 EET" name="openHomePageOfGoogle" finished-at="2021-08-24T18:27:34 EET" duration-ms="5204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePageOfGoogle -->
+        <test-method signature="testSearchInTheHomePage()[pri:1, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:34 EET" name="testSearchInTheHomePage" finished-at="2021-08-24T18:27:43 EET" duration-ms="9133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchInTheHomePage -->
+        <test-method is-config="true" signature="openHomePageOfGoogle()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:43 EET" name="openHomePageOfGoogle" finished-at="2021-08-24T18:27:48 EET" duration-ms="4858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePageOfGoogle -->
+        <test-method signature="testChangeSearchKeywordInResultsPage()[pri:2, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:48 EET" name="testChangeSearchKeywordInResultsPage" finished-at="2021-08-24T18:27:55 EET" duration-ms="6777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeSearchKeywordInResultsPage -->
+        <test-method is-config="true" signature="openHomePageOfGoogle()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:55 EET" name="openHomePageOfGoogle" finished-at="2021-08-24T18:27:56 EET" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePageOfGoogle -->
+        <test-method signature="testSearchForAWordThatDoesNotProduceResults()[pri:3, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:56 EET" name="testSearchForAWordThatDoesNotProduceResults" finished-at="2021-08-24T18:27:57 EET" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchForAWordThatDoesNotProduceResults -->
+        <test-method is-config="true" signature="openHomePageOfGoogle()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:57 EET" name="openHomePageOfGoogle" finished-at="2021-08-24T18:27:58 EET" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePageOfGoogle -->
+        <test-method signature="testSearchSuggestions()[pri:4, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:58 EET" name="testSearchSuggestions" finished-at="2021-08-24T18:27:58 EET" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchSuggestions -->
+        <test-method is-config="true" signature="openHomePageOfGoogle()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:58 EET" name="openHomePageOfGoogle" finished-at="2021-08-24T18:27:59 EET" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePageOfGoogle -->
+        <test-method signature="testIfSearchFieldInHomePageKeepsHistory()[pri:5, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:27:59 EET" name="testIfSearchFieldInHomePageKeepsHistory" finished-at="2021-08-24T18:28:02 EET" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfSearchFieldInHomePageKeepsHistory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario@3e27ba32]" started-at="2021-08-24T18:28:02 EET" name="tearDown" finished-at="2021-08-24T18:28:03 EET" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScenario -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

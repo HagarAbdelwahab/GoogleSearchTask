@@ -1,0 +1,6 @@
+util\datareaders\PropertiesReader.class
+pages\HomePage.class
+pages\Helper.class
+util\constants\Constants.class
+pages\SearchResultsPage.class
+util\datareaders\ElementReader.class
